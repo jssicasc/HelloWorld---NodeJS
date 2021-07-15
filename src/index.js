@@ -6,4 +6,3 @@ app.get('/', (request, response) => {
 });
 
 app.listen(3333);
-//para visualizar utilize localhost:3333
